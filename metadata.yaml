@@ -1,0 +1,41 @@
+_repo: Glimpses-into-the-Abyss_40122
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Higgs, Mary
+    aliases:
+    - Viatrix
+    - Kingsland, Mary
+    birthdate: 1854
+    gutenberg_agent_id: '40425'
+    url: http://www.gutenberg.org/2009/agents/40425
+description: ''
+gutenberg_issued: '2012-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lodging-houses -- Great Britain'
+- !lcsh 'Vagrancy -- Great Britain'
+- !lcsh 'Poor -- Great Britain'
+- !lcc 'HV'
+- !lcsh 'Women -- Employment -- Great Britain'
+- !lcsh 'Prostitution -- Great Britain'
+tableOfContents: 'Vagrancy: an essay awarded the Girton Gamble Prize, 1906 -- Five
+  days and five nights as a tramp among tramps -- A northern tramp ward -- A night
+  in a Salvation Army shelter -- Three nights in women''s lodging-houses -- Common
+  lodging-house life -- London investigations -- A symposium in a common lodging-house
+  -- Vagrancy: its relation to the Industrial Revolution -- Appendices: Transfer of
+  casuals to police supervision. Summary of recommendations of Vagrancy Committee.
+  Labour colonies: summary. Women: report of Vagrancy Committee. Evils of short sentences.
+  Preface by Canon Hicks, of Salford, to "Five days and nights as a tramp among tramps."
+  Immorality as caused by destitution among women. Common lodging-houses versus shelters.'
+title: Glimpses into the Abyss
+url: http://www.gutenberg.org/ebooks/40122
