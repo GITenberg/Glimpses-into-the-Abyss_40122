@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '40425'
     url: http://www.gutenberg.org/2009/agents/40425
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40122#Glimpses-into-the-Abyss
 gutenberg_issued: '2012-07-01'
 gutenberg_type: Text
 identifiers:
